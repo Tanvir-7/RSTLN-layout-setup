@@ -27,7 +27,7 @@ curl -fsSL https://raw.githubusercontent.com/yourusername/keyd-arch-installer/ma
 Or download and run manually:
 
 ```bash
-git clone https://github.com/yourusername/keyd-arch-installer.git
+git clone https://github.com/Tanvir-7/RSTLN-layout-setup.git
 cd keyd-arch-installer
 sudo chmod +x install.sh
 sudo ./install.sh
