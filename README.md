@@ -28,7 +28,7 @@ Or download and run manually:
 
 ```bash
 git clone https://github.com/Tanvir-7/RSTLN-layout-setup.git
-cd keyd-arch-installer
+cd RSTLN-layout-setup
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
