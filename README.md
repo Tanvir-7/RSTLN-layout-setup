@@ -21,7 +21,7 @@ A one-command installation script for setting up [keyd](https://github.com/rvaiy
 ### Quick Start (One Command)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/keyd-arch-installer/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Tanvir-7/RSTLN-layout-setup/main/install.sh | sudo bash
 ```
 
 Or download and run manually:
